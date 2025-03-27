@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "worker": {
+        "descriptor": "Logan McNeil",
+        "id": "3aa5550b7fe348b98d7b5741afc65534"
+      }
+    },
+    {
+      "worker": {
+        "descriptor": "Steve Morgan",
+        "id": "0e44c92412d34b01ace61e80a47aaf6d"
+      }
+    },
+    {
+      "worker": {
+        "descriptor": "Oliver Reynolds",
+        "id": "3895af7993ff4c509cbea2e1817172e0"
+      }
+    },
+    {
+      "worker": {
+        "descriptor": "Maximilian Schneider",
+        "id": "3bf7df19491f4d039fd54decdd84e05c"
+      }
+    },
+    {
+      "worker": {
+        "descriptor": "Teresa Serrano",
+        "id": "26c439a5deed4a7dbab76709e0d2d2ca"
+      }
+    }
+  ],
+  "total": 510
+}
